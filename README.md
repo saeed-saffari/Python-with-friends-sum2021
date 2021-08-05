@@ -13,7 +13,7 @@ This repository contains the contents of the "**Python for economics**" workshop
 
 - Packages:
   - [Numpy]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
-  - [Matplotlib] () [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+  - [Matplotlib]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
   - [Pandas (part 01)]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
   - [Pandas (part 02)]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
   - [Pandas (part 03)]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
