@@ -1,8 +1,6 @@
 # Python Workshop with Friends Summer 2021
 This repository contains the contents of the "**Python for economics**" workshop with friends.
 
-# Python for Economics
-
 ## Workshop OUTLINES
 
 - [Introduction]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
