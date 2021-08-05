@@ -1,6 +1,28 @@
 # Python Workshop with Friends Summer 2021
 This repository contains the contents of the "**Python for economics**" workshop with friends.
 
+## Workshop OUTLINES
+
+- [Introduction]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+- Python Setup
+- [Object and Data Structure Basics]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+
+- [Python Statements and Functions]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+
+- Packages:
+  - [Numpy]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+  - [Matplotlib]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+  - [Pandas (part 01)]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+  - [Pandas (part 02)]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+  - [Pandas (part 03)]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+  
+- Projects*
+ 
+## Exercises
+- Exercise 01 (Python Basic)
+
+
+
 
 ## The requirements and recommendations
 
