@@ -1,5 +1,5 @@
-# Python for Economics Workshop with Friends Summer 2021
-This repository contains the contents of the "Python for economics" workshop with friends.
+# Python Workshop with Friends Summer 2021
+This repository contains the contents of the "**Python for economics**" workshop with friends.
 
 
 ## The requirements and recommendations
