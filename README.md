@@ -3,7 +3,7 @@ This repository contains the contents of the "**Python for economics**" workshop
 
 ## Workshop OUTLINES
 
-- [Introduction](https://github.com/saeed-saffari/Python-with-friends-sum2021/blob/main/1.%20Data%20Structure%20Basics.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+- [Introduction](https://github.com/saeed-saffari/Python-with-friends-sum2021/blob/main/1.%20Data%20Structure%20Basics.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Python-with-friends-sum2021/blob/main/1.%20Data%20Structure%20Basics.ipynb)
 - Python Setup
 - [Object and Data Structure Basics]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
