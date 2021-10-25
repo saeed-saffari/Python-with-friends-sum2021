@@ -10,7 +10,7 @@ This repository contains the contents of the "**Python for economics**" workshop
 - [Python Statements and Functions](https://github.com/saeed-saffari/Python-with-friends-sum2021/blob/main/2.%20Conditional%20Control%20and%20Function.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Python-with-friends-sum2021/blob/main/2.%20Conditional%20Control%20and%20Function.ipynb)
 
 - Packages:
-  - [Numpy]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+  - [Numpy](https://github.com/saeed-saffari/Python-with-friends-sum2021/blob/main/3.NumPy.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Python-with-friends-sum2021/blob/main/3.NumPy.ipynb)
   - [Matplotlib]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
   - [Pandas (part 01)]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
   - [Pandas (part 02)]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
