@@ -19,7 +19,7 @@ This repository contains the contents of the "**Python for economics**" workshop
 - Projects*
  
 ## Exercises
-- Exercise 01 (Python Basic)
+- on Telegram group.
 
 
 
